@@ -130,7 +130,7 @@ The `queries.sql` file includes:
 If you wish to replicate or extend, please:
 - Use the same environment settings and dataset.
 - Follow the step-by-step commands above.
-- This report is **ONLY** shared for peer learning only. **It must NOT be submitted, in whole or in part, for any assignments in any course or academic setting.**
+- This report is **ONLY** shared for peer learning only. **It must NOT be submitted, in whole or in part, for any assignments in any courses or academic settings.**
 
 All rights to the contents of this project are reserved by the author unless explicitly stated otherwise. The SQL structure template were provided by the INFS4205/7205 teaching team for assessment purposes.
 
